@@ -1,1 +1,1 @@
-﻿
+function test(){return"hello"}
